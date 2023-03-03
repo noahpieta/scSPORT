@@ -1,19 +1,19 @@
-# scSPORTs_New
+# scSPORTs
 *Copyright (c) 2023 Noah Yu Zhang*. This project is licensed under the terms of the MIT license.
 
 __scSPORTs__: a Single-cell RNA Structure Probing Method
 
 ## Introduction
 
-__scSPORTs__ is a method to probe the RNA secondary structure in single cells. 
+RNA structure is critical for multiple steps in gene regulation. However, how structures of transcripts differ both within and between individual cells is unknown. Here, we develop __scSPORTs__, a method enabling the simultaneous determination of transcript structure and abundance at single-cell resolution, that opens the door to the systematic characterization of RNA structure-function relationships at single-cell resolution. 
 
 ## Usage
-### *Input*
+### *Input:*
 <!-- #### -->&nbsp;&nbsp;&nbsp;&nbsp;
-### *Usage examples*
+### *Usage examples:*
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-DDJJADJ
+
 
 
 ## Authors
