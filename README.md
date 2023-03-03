@@ -1,9 +1,9 @@
-# scSPORTs_New
+**scSPORTs_New**
 ===============
 *Copyright 2019 Steven Busan*. This project is licensed under the terms of the 
 MIT license.
 scSPORTs: a Single-cell RNA Structure Probing Method
 
 
-## Introduction
+***Introduction***
 scSPORTs is a method to probe the RNA secondary structure in single cells. 
