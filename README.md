@@ -5,11 +5,11 @@
 scSPORTs: a Single-cell RNA Structure Probing Method
 
 
-**Introduction**
+*Introduction*
 
 scSPORTs is a method to probe the RNA secondary structure in single cells. 
 
-**Installation**
+*Installation*
 
-**Usage**
+*Usage*
 ***Input***
