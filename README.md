@@ -1,7 +1,7 @@
-**scSPORTs_New**
+*scSPORTs_New*
 ===============
-*Copyright 2019 Steven Busan*. This project is licensed under the terms of the 
-MIT license.
+*Copyright 2019 Zhang Yu*. This project is licensed under the terms of the MIT license.
+
 scSPORTs: a Single-cell RNA Structure Probing Method
 
 
