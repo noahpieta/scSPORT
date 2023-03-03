@@ -8,6 +8,10 @@ __scSPORTs__: a Single-cell RNA Structure Probing Method
 RNA structure is critical for multiple steps in gene regulation. However, how structures of transcripts differ both within and between individual cells is unknown. Here, we develop __scSPORTs__, a method enabling the simultaneous determination of transcript structure and abundance at single-cell resolution, that opens the door to the systematic characterization of RNA structure-function relationships at single-cell resolution. 
 
 ## Usage
+
+### Requirement
+
+
 ### *Input:*
 <!-- #### -->&nbsp;&nbsp;&nbsp;&nbsp;
 ### *Usage examples:*
