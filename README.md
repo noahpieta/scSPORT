@@ -21,10 +21,13 @@ DDJJADJ
 *Dr. Noah Yu Zhang (zhang_yu@gis.a-star.edu.sg)*  
 *Dr. Tong Zhang (zhangtong516@gmail.com)*  
 *from Genome Institute of Singapore(GIS), Agency of Science, Techonology and Research(A*STAR)  
-*under supervision of Dr. Yue Wan*
+*under supervision of Dr. Yue Wan (wany@gis.a-star.edu.sg)*
 
 
 ## License
 
 This program is free software, and can be redistribute and/or modified under the terms of the MIT License.
 
+## Documentation
+
+For any information, please refer to the documentation: <http://kkkkk/>
