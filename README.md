@@ -18,9 +18,10 @@ DDJJADJ
 
 ## Authors
 
-Zhang Yu (zhang_yu[at]gis.a-star.edu.sg)  
-Zhang Tong (zhangtong516[at]gmail.com)  
-from Genome Institute of Singapore(GIS), Agency of Science, Techonology and Research(A*STAR)  
+*Dr. Noah Yu Zhang (zhang_yu@gis.a-star.edu.sg)*  
+*Dr. Tong Zhang (zhangtong516@gmail.com)*  
+*from Genome Institute of Singapore(GIS), Agency of Science, Techonology and Research(A*STAR)  
+*under supervision of Dr. Yue Wan*
 
 
 ## License
