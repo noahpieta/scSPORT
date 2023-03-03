@@ -9,7 +9,7 @@ RNA structure is critical for multiple steps in gene regulation. However, how st
 
 ## Usage
 
-### Requirement
+### *Requirement*
 
 
 ### *Input:*
