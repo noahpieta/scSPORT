@@ -1,0 +1,13 @@
+# Target labels
+ samtools-lib
+# Source files and their labels
+/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/samtools-lib
+/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/samtools-lib.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/samtools-lib-complete.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/samtools-lib-stamp/samtools-lib-install.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/samtools-lib-stamp/samtools-lib-mkdir.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/samtools-lib-stamp/samtools-lib-download.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/samtools-lib-stamp/samtools-lib-update.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/samtools-lib-stamp/samtools-lib-patch.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/samtools-lib-stamp/samtools-lib-configure.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/samtools-lib-stamp/samtools-lib-build.rule

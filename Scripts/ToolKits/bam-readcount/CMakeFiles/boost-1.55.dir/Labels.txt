@@ -1,0 +1,13 @@
+# Target labels
+ boost-1.55
+# Source files and their labels
+/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/boost-1.55
+/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/boost-1.55.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/boost-1.55-complete.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/boost-1.55-stamp/boost-1.55-install.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/boost-1.55-stamp/boost-1.55-mkdir.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/boost-1.55-stamp/boost-1.55-download.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/boost-1.55-stamp/boost-1.55-update.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/boost-1.55-stamp/boost-1.55-patch.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/boost-1.55-stamp/boost-1.55-configure.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/boost-1.55-stamp/boost-1.55-build.rule

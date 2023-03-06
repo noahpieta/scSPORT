@@ -10,11 +10,18 @@ RNA structure is critical for multiple steps in gene regulation. However, how st
 ## Usage
 
 ### *Requirement*
+python                    3.8.13
+cutadapt                  4.0
+biopython                 1.79
 
 
 ### *Input:*
 <!-- #### -->&nbsp;&nbsp;&nbsp;&nbsp;
 ### *Usage examples:*
+
+
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -24,7 +31,7 @@ RNA structure is critical for multiple steps in gene regulation. However, how st
 
 *Dr. Noah Yu Zhang (zhang_yu@gis.a-star.edu.sg)*  
 *Dr. Tong Zhang (zhangtong516@gmail.com)*  
-*from Genome Institute of Singapore(GIS), Agency of Science, Techonology and Research(A*STAR)  
+*from Genome Institute of Singapore(GIS), Agency of Science, Techonology and Research(A\*STAR)  
 *under supervision of Dr. Yue Wan (wany@gis.a-star.edu.sg)*
 
 

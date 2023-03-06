@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/samtools-lib"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/samtools-lib.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/samtools-lib-complete.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/samtools-lib-stamp/samtools-lib-install.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/samtools-lib-stamp/samtools-lib-mkdir.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/samtools-lib-stamp/samtools-lib-download.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/samtools-lib-stamp/samtools-lib-update.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/samtools-lib-stamp/samtools-lib-patch.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/samtools-lib-stamp/samtools-lib-configure.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/samtools-lib-stamp/samtools-lib-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "samtools-lib" ],
+		"name" : "samtools-lib"
+	}
+}
