@@ -32,9 +32,12 @@ The snakemake scripts are under the PATH ```scSPORTs_New/Scripts/Pipeline```
 After running the pipeline of each cell, the output is a matrix for each single cell containing the mutant rate of each nucleotide or 10nt-windown. Then the ```Merge_Mutrate_to_Matrix.py``` was used to merge mutant rates from cells together into a matrix. 
 &nbsp;&nbsp;&nbsp;&nbsp;
 ### Calculate Reactivity and Heterogeneity
-We used jupyter lab to do the next analysis. The jupyter notebooks are under path ```Scripts/Analysis/```. The jupyter notebooks in ```Homo Transcriptome``` folder are for cells from human neural dfferentiation; The jupyter notebooks in ```RiboSwitch``` are for the dop-in benchmarks. Here we used the Riboswitches as example:
-&nbsp;&nbsp;&nbsp;&nbsp;  
-<img src="/Figures/Reactivity_Heatmaps_of_Riboswitches/reac_heatmap.gNorm.Tetrahymena.svg"  width="1200" height="600"><img src="/Figures/Reactivity_Heatmaps_of_Riboswitches/reac_heatmap.gNorm.Tetrahymena.svg"  width="1200" height="600">
+We used jupyter lab to do the next analysis. The jupyter notebooks are under path ```Scripts/Analysis/```. The jupyter notebooks in ```Homo Transcriptome``` folder are for cells from human neural dfferentiation; The jupyter notebooks in ```RiboSwitch``` are for the dop-in benchmarks. Here we used the Riboswitches as example:  
+<p float="left">
+  <img src="/Figures/Reactivity_Heatmaps_of_Riboswitches/reac_heatmap.gNorm.with_statTest.Tetrahymena.svg" width="600" height="800"/>
+  <img src="/Figures/Reactivity_on_Secondary_Structure/tetrahymena_from_ashley.in_vivo.WT.svg" width="500" height="800"/> 
+</p>   
+
 ## Authors
 
 *Dr. Noah Yu Zhang (zhang_yu@gis.a-star.edu.sg)*  
