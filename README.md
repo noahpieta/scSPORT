@@ -23,7 +23,7 @@ The single-cell structure probing data were sequenced with illumina sequencing p
 ......
 &nbsp;&nbsp;&nbsp;&nbsp;
 ### Pipeline for each cell
-The scSPORT used the snakemake script to cut the adapter, map to transcriptome reference and calculate mutant rate of each nucleotide for each single cell. You may change the reference and the path of dependant softwares according to your env. we suggest you to build a env with conda. The bam-readcount[https://github.com/genome/bam-readcount] was used to calulcated the mutant rate from bam files. 
+The scSPORT used the snakemake script to cut the adapter, map to transcriptome reference and calculate mutant rate of each nucleotide for each single cell. You may change the reference and the path of dependant softwares according to your env. we suggest you to build a env with conda. The [bam-readcount](https://github.com/genome/bam-readcount) was used to calulcated the mutant rate from bam files. 
 &nbsp;&nbsp;&nbsp;&nbsp;  
 The snakemake scripts are under the PATH ```scSPORTs_New/Scripts/Pipeline```  
 >+ *```sm.shape-map.mutrate.pipeline.acrc.RiboSxitch.snakemake``` is used for the wildtype and mutated well-known riboswitches() which are dopped in;*  
