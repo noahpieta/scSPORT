@@ -34,8 +34,8 @@ After running the pipeline of each cell, the output is a matrix for each single 
 ### Calculate Reactivity and Heterogeneity
 We used jupyter lab to do the next analysis. The jupyter notebooks are under path ```Scripts/Analysis/```. The jupyter notebooks in ```Homo Transcriptome``` folder are for cells from human neural dfferentiation; The jupyter notebooks in ```RiboSwitch``` are for the dop-in benchmarks. Here we used the Riboswitches as example:
 <p float="left">
-  <img src="/Figures/Reactivity_Heatmaps_of_Riboswitches/reac_heatmap.gNorm.with_statTest.Tetrahymena - cover.svg" width="300" height="550"/>
-  <img src="/Figures/Reactivity_on_Secondary_Structure/tetrahymena_from_ashley.in_vivo.WT.svg" width="300" height="500"/> 
+  <img src="/Figures/Reactivity_Heatmaps_of_Riboswitches/reac_heatmap.gNorm.with_statTest.Tetrahymena - cover.svg" width="400" height="550"/>
+  <img src="/Figures/Reactivity_on_Secondary_Structure/tetrahymena_from_ashley.in_vivo.WT.svg" width="400" height="500"/> 
 </p>   
 
 ### Notice
