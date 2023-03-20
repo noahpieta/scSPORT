@@ -1,5 +1,5 @@
 # scSPORT
-*Copyright (c) 2023 Noah Yu Zhang*. This project is licensed under the terms of the MIT license.
+*Copyright (c) 2023 Yue Wan Lab*. This project is licensed under the terms of the MIT license.
 
 __scSPORT__: a Single-cell RNA Structure Probing Method
 
