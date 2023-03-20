@@ -38,6 +38,9 @@ We used jupyter lab to do the next analysis. The jupyter notebooks are under pat
   <img src="/Figures/Reactivity_on_Secondary_Structure/tetrahymena_from_ashley.in_vivo.WT.svg" width="300" height="500"/> 
 </p>   
 
+### Notice
+The Path of files need to change to absolute path according to your local path. The author is working to change them to relative path. 
+
 ## Authors
 
 *Dr. Noah Yu Zhang (zhang_yu@gis.a-star.edu.sg)*  
