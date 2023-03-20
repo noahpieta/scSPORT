@@ -39,7 +39,7 @@ We used jupyter lab to do the next analysis. The jupyter notebooks are under pat
 </p>   
 
 ### Notice
-The Path of files need to change to absolute path according to your local path. The author is working to change them to relative path. 
+The Paths of files need to change to absolute path according to your local path. The author is working to change them to relative paths. 
 
 ## Authors
 
