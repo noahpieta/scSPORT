@@ -1,0 +1,1 @@
+cmd='echo;Building samtools, build log at /home/zhangyu2/projects/toolkits/bam-readcount/vendor/samtools/build.log'

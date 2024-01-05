@@ -1,0 +1,2 @@
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/gtest160-build/CMakeFiles/gtest.dir
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/gtest160-build/CMakeFiles/gtest_main.dir

@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/boost-1.55"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/boost-1.55.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/boost-1.55-complete.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/boost-1.55-stamp/boost-1.55-install.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/boost-1.55-stamp/boost-1.55-mkdir.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/boost-1.55-stamp/boost-1.55-download.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/boost-1.55-stamp/boost-1.55-update.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/boost-1.55-stamp/boost-1.55-patch.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/boost-1.55-stamp/boost-1.55-configure.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/boost-1.55-stamp/boost-1.55-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "boost-1.55" ],
+		"name" : "boost-1.55"
+	}
+}
