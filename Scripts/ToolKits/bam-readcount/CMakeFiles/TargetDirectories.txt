@@ -1,0 +1,7 @@
+/home/zhangyu2/projects/toolkits/bam-readcount/build/test/lib/bamrc/CMakeFiles/TestBamrcLib.dir
+/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/samtools-lib.dir
+/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/boost-1.55.dir
+/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/gtest160.dir
+/home/zhangyu2/projects/toolkits/bam-readcount/build/src/lib/bamrc/CMakeFiles/bamrc.dir
+/home/zhangyu2/projects/toolkits/bam-readcount/build/src/exe/bam-readcount/CMakeFiles/bam-readcount.dir
+/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/__bc_predepends.dir

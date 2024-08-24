@@ -1,0 +1,3 @@
+repository='external project URL'
+module='/home/zhangyu2/projects/toolkits/bam-readcount/repo/vendor/boost-1.55-bamrc.tar.gz'
+tag=''

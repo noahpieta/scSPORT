@@ -1,0 +1,1 @@
+cmd='/mnt/software/stow/cmake-3.2.1/bin/cmake;-DCMAKE_CXX_FLAGS=-DGTEST_USE_OWN_TR1_TUPLE=1;-GUnix Makefiles;/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/gtest160'

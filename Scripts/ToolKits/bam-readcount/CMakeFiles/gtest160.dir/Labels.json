@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/gtest160"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/gtest160.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/gtest160-complete.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/gtest160-stamp/gtest160-install.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/gtest160-stamp/gtest160-mkdir.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/gtest160-stamp/gtest160-download.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/gtest160-stamp/gtest160-update.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/gtest160-stamp/gtest160-patch.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/gtest160-stamp/gtest160-configure.rule"
+		},
+		
+		{
+			"file" : "/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/gtest160-stamp/gtest160-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "gtest160" ],
+		"name" : "gtest160"
+	}
+}

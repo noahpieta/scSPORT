@@ -1,0 +1,3 @@
+repository='external project URL'
+module='/home/zhangyu2/projects/toolkits/bam-readcount/repo/vendor/samtools-0.1.19.tar.gz'
+tag=''

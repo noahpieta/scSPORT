@@ -1,0 +1,13 @@
+# Target labels
+ gtest160
+# Source files and their labels
+/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/gtest160
+/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/gtest160.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/CMakeFiles/gtest160-complete.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/gtest160-stamp/gtest160-install.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/gtest160-stamp/gtest160-mkdir.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/gtest160-stamp/gtest160-download.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/gtest160-stamp/gtest160-update.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/gtest160-stamp/gtest160-patch.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/gtest160-stamp/gtest160-configure.rule
+/home/zhangyu2/projects/toolkits/bam-readcount/vendor/src/gtest160-stamp/gtest160-build.rule
